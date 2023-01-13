@@ -1,0 +1,22 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.arr
+{
+width: 400px;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    text-align: center;
+    background: #C6CCC0;
+    color: #2b2839;
+    border-bottom: 5px solid #d8cefe;
+}
+
+.image {
+    width: 150px;
+    box-shadow: 5px 5px 5px 5px #5F5C5C;
+}
